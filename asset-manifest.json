@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UserCV2/static/css/main.4369930f.css",
+    "main.js": "/UserCV2/static/js/main.93d0622b.js",
+    "index.html": "/UserCV2/index.html",
+    "main.4369930f.css.map": "/UserCV2/static/css/main.4369930f.css.map",
+    "main.93d0622b.js.map": "/UserCV2/static/js/main.93d0622b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4369930f.css",
+    "static/js/main.93d0622b.js"
+  ]
+}
